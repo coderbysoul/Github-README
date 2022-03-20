@@ -1,4 +1,4 @@
-# Hi there, I'm Arjya Bhattacharjee  !<img  width="20px" height="50px" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" />
+# Hi there, I'm Arjya Bhattacharjee  !<img  width="30px" height="45px" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" />
 
 ## 🎓Pursuing Information Technology and I'm currently in my freshman year
 
