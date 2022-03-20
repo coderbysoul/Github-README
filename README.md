@@ -1,4 +1,4 @@
-# Hi there, I'm Arjya Bhattacharjee  !<img  width="30px" height="45px" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" />
+# Hi there, I'm Arjya Bhattacharjee  !<img  width="30px" height="29px" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" />
 
 ## 🎓Pursuing Information Technology and I'm currently in my freshman year
 
@@ -6,6 +6,8 @@
 
 - 🚀 I’m currently diving deeper into DSA and learning Javascript
 - 🚀 I’m looking to collaborate on Open Source
+
+<img align="right" height="420px" width="400px" src="https://cdn1.vectorstock.com/i/thumb-large/04/80/woman-write-journal-on-table-girl-drawing-vector-36010480.jpg" />
 
 ___
 
