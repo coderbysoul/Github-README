@@ -12,7 +12,7 @@ ___
 - Statistics ✨
 
 <img align="left" alt="coderbysoul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coderbysoul&show_icons=true&theme=radical"/>
-<img align="right" alt="coderbysoul's Github Streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=coder&theme=radical" />
+<img align="right" alt="coderbysoul's Github Streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=coderbysoul&theme=radical" />
 
    
  
