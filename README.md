@@ -1,4 +1,4 @@
-# Hi there, I'm Arjya Bhattacharjee  !<img  width="10px" height="10px" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" />
+# Hi there, I'm Arjya Bhattacharjee  !<img  width="50px" height="10px" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" />
 
 ## 🎓Pursuing Information Technology and I'm currently in my freshman year
 
@@ -11,8 +11,8 @@ ___
 
 - Statistics ✨
 
-<img  align="left" width="50%" alt="coderbysoul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coderbysoul&show_icons=true&theme=radical"/>
-<img  align="right" width="50%" alt="coderbysoul's Github Streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=coderbysoul&theme=radical" />
+<img  align="left" width="45%" alt="coderbysoul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coderbysoul&show_icons=true&theme=radical"/>
+<img  align="right" width="45%" alt="coderbysoul's Github Streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=coderbysoul&theme=radical" />
 
    
  
