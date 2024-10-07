@@ -2,7 +2,7 @@
 
 <img align="right" height="250px" width="200px" src="https://cdn1.vectorstock.com/i/thumb-large/04/80/woman-write-journal-on-table-girl-drawing-vector-36010480.jpg" />
 
-## 🎓An undergrad student of Computer Science and Engineering currently in the junior year
+## 🎓An undergrad student of Computer Science and Engineering currently in the senior year
 
 ### I'm an enthusiastic learner on the voyage of exploring the amazing world of technology and in the process, learn new skills. Passionate about coding and would love to contribute in aspirational environment ☺
 
